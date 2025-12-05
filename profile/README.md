@@ -1,6 +1,10 @@
 # Repocraft
 
-![status: work in progress](https://img.shields.io/badge/status-work_in_progress-green)
+![status: planning](https://img.shields.io/badge/status-planning-green)
 
 
 Repocraft is a lightweight Git hosting platform, with Java and Go backend implementations.
+
+> **Note**
+>
+> This project is still under early development stage.
