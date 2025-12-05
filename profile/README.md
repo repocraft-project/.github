@@ -3,7 +3,7 @@
 ![status: planning](https://img.shields.io/badge/status-planning-green)
 
 
-Repocraft is a lightweight Git hosting platform, with Java and Go backend implementations.
+Repocraft is a lightweight Git hosting platform.
 
 > **Note**
 >
